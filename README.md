@@ -1,2 +1,2 @@
 # thebullions
-A python base precious metals trade
+A python base precious metals trading app
