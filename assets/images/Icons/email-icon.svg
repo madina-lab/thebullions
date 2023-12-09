@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>email-icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-86 247)">
+<g id="email-icon">
+<use xlink:href="#path0_fill" transform="translate(86 -247)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 50 8.33333C 72.975 8.33333 91.6667 27.025 91.6667 50C 91.6667 72.975 72.975 91.6667 50 91.6667C 27.025 91.6667 8.33333 72.975 8.33333 50C 8.33333 27.025 27.025 8.33333 50 8.33333L 50 8.33333ZM 50 -1.86264e-09C 22.3875 -1.86264e-09 0 22.3875 0 50C 0 77.6125 22.3875 100 50 100C 77.6125 100 100 77.6125 100 50C 100 22.3875 77.6125 -1.86264e-09 50 -1.86264e-09L 50 -1.86264e-09ZM 50 52.2917L 25.0333 33.25L 74.9625 33.25L 50 52.2917ZM 50 57.6583L 25 38.3708L 25 66.5833L 75 66.5833L 75 38.3708L 50 57.6583L 50 57.6583Z"/>
+</defs>
+</svg>

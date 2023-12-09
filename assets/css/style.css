@@ -22,3 +22,13 @@ textarea {
     padding: 1rem 1.2rem;
     font-size: 0.8rem;
 }
+
+.btn {
+    outline: none;
+    border: none;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+    padding: 1rem 1.2rem;
+    font-size: 0.8rem;
+}
+

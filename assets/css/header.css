@@ -25,3 +25,32 @@ header .topbar .left a {
 header .topbar .right {
     font-size: 0.8rem;
 }
+
+header .mid {
+    width: 100%;
+    height: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 var(--padding-x);
+    border-bottom: 0.2px solid var(--color-gray-3);
+}
+
+header .mid .logo {
+    height: 2rem;
+}
+
+header .mid .search {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+header .buttons {
+    display: flex;
+}
+
+header .buttons .icon {
+    width: 1rem;
+    position: relative;
+}
