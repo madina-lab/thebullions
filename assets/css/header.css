@@ -1,0 +1,27 @@
+header {
+    width: 100%;
+}
+
+header .topbar {
+    width: 100%;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 var(--padding-x);
+    border-bottom: 1px solid (--color-gray-2);
+}
+
+header .topbar .left {
+    display: flex;
+    gap: 1rem;
+}
+
+header .topbar .left a {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+header .topbar .right {
+    font-size: 0.8rem;
+}
